@@ -40,5 +40,5 @@ TO COMPILE:
         
         1) Compile the sim.c file with gcc
         2) Run a.out alongside a specific input file (i.e "./a.out < simple_loop.in")
-        3) There is also a verbose method, that displays more information. It can be implemented by adding "-v" to the a.out command shown above (i.e ./a.out -v < simple_loop.in)
+        3) There is also a verbose method that displays more information. It can be implemented by adding "-v" to the a.out command shown above (i.e ./a.out -v < simple_loop.in)
     
